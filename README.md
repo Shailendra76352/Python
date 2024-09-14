@@ -1,1 +1,4 @@
-# Azure-Data-Factory
+List
+Dictionary
+Tuple
+Strings
